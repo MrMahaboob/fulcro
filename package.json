@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git@github.com:fulcrologic/fulcro.git"
   },
+  "scripts": {
+    "start": "node index.html"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
